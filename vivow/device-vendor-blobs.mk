@@ -54,6 +54,3 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivow/proprietary/libril_ims.so:/system/lib/libreference-ril.so \
     vendor/htc/vivow/proprietary/libril.so:/system/lib/libril.so
 
-    PRODUCT_COPY_FILES += \
-    vendor/aokp/prebuilt/common/app/NovaLauncher.apk:system/app/NovaLauncher.apk
-
